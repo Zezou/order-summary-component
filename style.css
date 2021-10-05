@@ -63,7 +63,7 @@ body {
   width: 60%;
 }
 .cancel-button {
-  backgroud-color: transparent;
+  background-color: transparent;
   border: none;
   color: hsl(224, 23%, 55%);
   cursor: pointer;
